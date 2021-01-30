@@ -17,10 +17,7 @@ export default {
   srcDir: 'src/',
 
   router: {
-    base:
-      process.env.NODE_ENV === 'production'
-        ? '/https://kalimotxo9507.github.io/kalimotxo.github.io/'
-        : '/'
+    base: process.env.NODE_ENV === 'production' ? '/kalimotxo.github.io/' : '/'
   },
 
   /*
