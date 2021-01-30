@@ -1,7 +1,7 @@
 module.exports = {
   // seo
-  title: '【サイト名】',
-  description: '【サイト詳細】',
+  title: 'kalimotxo blog',
+  description: 'kalimotxo blog',
   baseUrl: 'http://localhost:3000',
 
   // settings
