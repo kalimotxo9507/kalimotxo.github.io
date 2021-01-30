@@ -1,7 +1,7 @@
 module.exports = {
   // seo
-  title: '【サイト名】',
-  description: '【サイト詳細】',
+  title: 'kalimotxo blog',
+  description: 'kalimotxo blog',
   baseUrl: 'https://kalimotxo9507.github.io/kalimotxo.github.io',
 
   // settings
