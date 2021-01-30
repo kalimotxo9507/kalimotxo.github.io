@@ -19,8 +19,9 @@
     "@nuxtjs/pwa": "^3.0.0-0",
     "@nuxtjs/sitemap": "^2.0.0",
     "markdown-it-attrs": "^3.0.1",
-    "nuxt": "^2.0.0",
-    "prismjs": "^1.17.1"
+    "nuxt": "^2.14.12",
+    "prismjs": "^1.17.1",
+    "v-calendar": "^3.0.0-alpha.3"
   },
   "devDependencies": {
     "@mdi/font": "^4.4.95",
